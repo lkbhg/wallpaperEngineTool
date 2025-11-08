@@ -73,7 +73,7 @@ def get_folder_title(source_path, folder_name):
 
 # 处理文件夹和文件
 def process_folders():
-    base_path = Path(r"D:\wallpaper_buff\wallpaper2")
+    base_path = Path(r"D:\wallpaper_buff\wallpaper1")
     repkg_exe = base_path / "RePKG" / "RePKG.exe"
     output_base = base_path / "output"
     contains = 100
